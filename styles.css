@@ -18,7 +18,9 @@
     src: url(fonts/Roboto-Italic.ttf);
 }
 
-
+body {
+    margin: 0;
+}
 
 /* HEADER */
 .header_container {
